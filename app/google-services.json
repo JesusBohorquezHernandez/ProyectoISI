@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "79974754009",
+    "project_id": "apptitudetest-1fbc8",
+    "storage_bucket": "apptitudetest-1fbc8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79974754009:android:17b227e5a88c7db41e40c8",
+        "android_client_info": {
+          "package_name": "com.example.aptitudetestapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJFzo04d9G_wIoz5d_e8PX4_IFly68o58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

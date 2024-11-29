@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">AptitudeTestApp</string>
+    <string-array name="ciudades_array">
+        <item>Bogotá</item>
+        <item>Medellín</item>
+        <item>Cali</item>
+        <item>Barranquilla</item>
+        <item>Cartagena</item>
+        <item>Cúcuta</item>
+        <item>Bucaramanga</item>
+        <item>Pereira</item>
+        <item>Santa Marta</item>
+        <item>Manizales</item>
+        <item>Neiva</item>
+        <item>Villavicencio</item>
+        <item>Ibagué</item>
+        <item>Soledad</item>
+        <item>Pasto</item>
+    </string-array>
+    <string name="universidad_id_invalid">ID de universidad no válido.</string>
+    <string name="universidad_info_not_found">No se obtuvo información de la universidad.</string>
+    <string name="unavailable">No disponible</string>
+    <string name="error_processing_info">Error al procesar la información.</string>
+    <string name="no_carrera_selected">No se ha seleccionado ninguna carrera.</string>
+    <string name="error_obtaining_universities">Error al obtener universidades.</string>
+    <string name="name_not_available">Nombre no disponible</string>
+    <string name="university_info_not_found">No se encontró información de la universidad seleccionada.</string>
+</resources>
+
+
+
